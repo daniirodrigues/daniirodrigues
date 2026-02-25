@@ -8,7 +8,7 @@ Concluí o Ensino Médio e realizei um curso de 3 meses de HTML, CSS e JavaScrip
 
 Atualmente, estou cursando Desenvolvedor Mobile no Proa Profissão, buscando me especializar na criação de aplicativos e aprimorar minhas habilidades na área de tecnologia. Estou sempre em busca de novos aprendizados e desafios para evoluir como desenvolvedor. 🚀
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Estudando Linguagens e Tecnologias
 
 <img 
     align="left" 
