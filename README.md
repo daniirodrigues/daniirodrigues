@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Daniel Rodrigues da Silva
 
-**`Em formação como Desenvolvedor Mobile`**
+**`Em Formação como Desenvolvedor Mobile`**
 
 Me chamo Daniel Rodrigues da Silva, tenho 17 anos e sou natural de São Paulo.
 
@@ -42,6 +42,8 @@ Atualmente, estou cursando Desenvolvedor Mobile no Proa Profissão, buscando me 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+Im+Daniel+Rodrigues%3A))](https://git.io/typing-svg)
+
 
 <br/>
 <br/>
