@@ -2,11 +2,11 @@
 
 **`Em Formação como Desenvolvedor Mobile`**
 
-Me chamo Daniel Rodrigues da Silva, tenho 17 anos e sou natural de São Paulo.
+Concluí o Ensino Médio e realizei um curso intensivo de 6 meses de HTML, CSS e JavaScript no SENAC, onde desenvolvi uma base sólida em desenvolvimento web, estruturação de páginas, estilização responsiva e lógica de programação. Durante o curso, criei projetos práticos que me ajudaram a entender na prática como funciona o desenvolvimento de interfaces e a organização de código.
 
-Concluí o Ensino Médio e realizei um curso de 3 meses de HTML, CSS e JavaScript no SENAC, onde desenvolvi base em desenvolvimento web e lógica de programação.
+Atualmente, estou cursando Desenvolvedor Mobile no Proa Profissão, com foco na criação de aplicativos modernos e funcionais. Tenho estudado conceitos como desenvolvimento para dispositivos móveis, boas práticas de programação, organização de projetos e integração com APIs.
 
-Atualmente, estou cursando Desenvolvedor Mobile no Proa Profissão, buscando me especializar na criação de aplicativos e aprimorar minhas habilidades na área de tecnologia. Estou sempre em busca de novos aprendizados e desafios para evoluir como desenvolvedor. 🚀
+Estou constantemente buscando evoluir minhas habilidades técnicas, aprendendo novas tecnologias e aprimorando minha capacidade de resolver problemas. Meu objetivo é me tornar um desenvolvedor cada vez mais preparado para o mercado, criando soluções eficientes, intuitivas e que gerem impacto positivo para os usuários.
 
 ### 🤖 Estudando Linguagens e Tecnologias
 
